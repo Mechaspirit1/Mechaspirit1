@@ -1,16 +1,87 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mechaspirit1/Mechaspirit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+'||    ||'                 '||                               ||           ||    .        
+ |||  |||    ....    ....   || ..    ....    ....  ... ...  ...  ... ..  ...  .||.   /|  
+ |'|..'||  .|...|| .|   ''  ||' ||  '' .||  ||. '   ||'  ||  ||   ||' ''  ||   ||   /||  
+ | '|' ||  ||      ||       ||  ||  .|' ||  . '|..  ||    |  ||   ||      ||   ||    ||  
+.|. | .||.  '|...'  '|...' .||. ||. '|..'|' |'..|'  ||...'  .||. .||.    .||.  '|.'  ||  
+                                                    ||                               ||  
+                                                   ''''                             ,/-' 
 
-Here are some ideas to get you started:
+ "From the moment I understood the weakness of my flesh, it disgusted me."
+```
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------
+
+## About Me
+
+I'm a cybersecurity undergrad student currently working as an **Identity and
+Access Management (IAM) Analyst** in a long-term internship.
+
+**I spend most of my time thinking about:** - College, work, personal projects and bankrupting myself by buying more gear
+
+------------------------------------------------------------------------
+
+## What I'm Working With
+
+**Languages** - JavaScript - Python - Go (currently learning)
+
+**Areas of Interest** - Cloud computing and infraestructure - System
+security - Linux internals - Networking fundamentals - self-hosting - Old hardware revival projects
+
+------------------------------------------------------------------------
+
+## Homelab
+
+I run a **Proxmox server at home** based on an old Dell Prebuilt (Yeah, it's outdated, laugh it up), where I experiment with:
+
+-   Virtual machines and containers
+-   Self-hosted services
+-   Network segmentation
+-   *Dealing with windows and other proprietary garbage from Microsoft*
+-   Breaking my Gentoo VMs on purpose 
+
+Specs (customize if you want):
+
+    CPU: Intel i7-3770
+    RAM: 32 GB
+    Storage: 8TB (2 4TB Western Digital drives)
+    GPU: RTX 3050 8GB
+
+------------------------------------------------------------------------
+
+## Philosophy
+
+I strongly believe in:
+
+-   Open standards
+-   Open source software
+-   AVoiding unecessary abstraction
+-   Reading documentation
+-   Self teaching
+
+If it runs on Unix, I probably like it.
+
+------------------------------------------------------------------------
+
+## Miscellaneous Interests
+
+-   Tinkering with older hardware
+-   Bringing outdated machines back to life (if it wasn't obvious)
+-   Learning about the history of computing
+-   Anything related to Warhammer 40k and the AdMech
+-   Microcontrollers
+
+------------------------------------------------------------------------
+
+## Current Focus
+
+-   Deepening my understanding of security architecture
+-   Becoming more comfortable with Go
+-   Strengthening backend fundamentals
+-   Building more serious infrastructure projects
+-   Planning for a master's in either computer science or telecommunications engineering
+
+------------------------------------------------------------------------
