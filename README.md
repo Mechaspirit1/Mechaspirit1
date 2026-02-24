@@ -9,7 +9,8 @@
                                                     ||                               ||  
                                                    ''''                             ,/-' 
 
- "From the moment I understood the weakness of my flesh, it disgusted me."
+ "Thus do we invoke the Machine God.
+Thus do we make whole that which was sundered."
 ```
 </div>
 
@@ -41,10 +42,10 @@ I run a **Proxmox server at home** based on an old Dell Prebuilt (Yeah, it's out
 -   Self-hosted services
 -   Running local LLMs
 -   Network segmentation
--   *Dealing with windows and other proprietary garbage from Microsoft*
+-   *Dealing with Windows and other proprietary garbage from Microsoft*
 -   Breaking my Gentoo VMs on purpose 
 
-Specs (customize if you want):
+Specs:
 
     CPU: Intel i7-3770
     RAM: 32 GB
@@ -59,7 +60,7 @@ I strongly believe in:
 
 -   Open standards
 -   Open source software
--   AVoiding unecessary abstraction
+-   Avoiding unnecessary abstraction
 -   Reading documentation
 -   Self teaching
 
