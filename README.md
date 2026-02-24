@@ -39,6 +39,7 @@ I run a **Proxmox server at home** based on an old Dell Prebuilt (Yeah, it's out
 
 -   Virtual machines and containers
 -   Self-hosted services
+-   Running local LLMs
 -   Network segmentation
 -   *Dealing with windows and other proprietary garbage from Microsoft*
 -   Breaking my Gentoo VMs on purpose 
