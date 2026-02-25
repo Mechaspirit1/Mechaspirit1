@@ -49,8 +49,7 @@ Specs:
 
     CPU: Intel i7-3770
     RAM: 32 GB
-    Storage: 8TB (2 4TB Western Digital drives)
-    GPU: RTX 3050 8GB
+    GPU: RTX 5050 8GB (Coming soon)
 
 ------------------------------------------------------------------------
 
