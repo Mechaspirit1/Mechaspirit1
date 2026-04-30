@@ -23,10 +23,8 @@ Thus do we make whole that which was sundered."
 
 ## About Me
 
-I'm a cybersecurity undergrad student currently working as an **Identity and
-Access Management (IAM) Analyst** in a long-term internship.
-
-**I spend most of my time thinking about:** - College, work, personal projects and bankrupting myself by buying more gear
+I'm a cybersecurity undergrad student currently working as a **Systems
+Administration intern** in a long-term internship.
 
 ------------------------------------------------------------------------
 
@@ -49,12 +47,6 @@ I run a **Proxmox server at home** based on an old Dell Prebuilt (Yeah, it's out
 -   Network segmentation
 -   *Dealing with Windows and other proprietary garbage from Microsoft*
 -   Breaking my Gentoo VMs on purpose 
-
-Specs:
-
-    CPU: Intel i7-3770
-    RAM: 32 GB
-    GPU: RTX 5050 8GB (Coming soon)
 
 ------------------------------------------------------------------------
 
