@@ -23,8 +23,7 @@ Thus do we make whole that which was sundered."
 
 ## About Me
 
-I'm a cybersecurity undergrad student currently working as a **Systems
-Administration intern** in a long-term internship.
+I'm a cybersecurity undergrad student currently unemployed and using the downtime to work on personal projects
 
 ------------------------------------------------------------------------
 
