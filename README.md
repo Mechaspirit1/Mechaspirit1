@@ -1,20 +1,15 @@
 <div align="center">
 
 ```text
- ██████   ██████                   █████                                   ███             ███   █████    ████ 
-░░██████ ██████                   ░░███                                   ░░░             ░░░   ░░███    ░░███ 
- ░███░█████░███   ██████   ██████  ░███████    ██████    █████  ████████  ████  ████████  ████  ███████   ░███ 
- ░███░░███ ░███  ███░░███ ███░░███ ░███░░███  ░░░░░███  ███░░  ░░███░░███░░███ ░░███░░███░░███ ░░░███░    ░███ 
- ░███ ░░░  ░███ ░███████ ░███ ░░░  ░███ ░███   ███████ ░░█████  ░███ ░███ ░███  ░███ ░░░  ░███   ░███     ░███ 
- ░███      ░███ ░███░░░  ░███  ███ ░███ ░███  ███░░███  ░░░░███ ░███ ░███ ░███  ░███      ░███   ░███ ███ ░███ 
- █████     █████░░██████ ░░██████  ████ █████░░████████ ██████  ░███████  █████ █████     █████  ░░█████  █████
-░░░░░     ░░░░░  ░░░░░░   ░░░░░░  ░░░░ ░░░░░  ░░░░░░░░ ░░░░░░   ░███░░░  ░░░░░ ░░░░░     ░░░░░    ░░░░░  ░░░░░ 
-                                                                ░███                                           
-                                                                █████                                          
-                                                               ░░░░░                                           
-                                                                                      
+::::    ::::   ::::::::    :::   
++:+:+: :+:+:+ :+:    :+: :+:+:   
++:+ +:+:+ +:+ +:+          +:+   
++#+  +:+  +#+ +#++:++#++   +#+   
++#+       +#+        +#+   +#+   
+#+#       #+# #+#    #+#   #+#   
+###       ###  ########  ####### 
 
- "Thus do we invoke the Machine God.
+"Thus do we invoke the Machine God.
 Thus do we make whole that which was sundered."
 ```
 </div>
@@ -29,10 +24,11 @@ I'm a cybersecurity undergrad student currently unemployed and using the downtim
 
 ## What I'm Working With
 
-**Languages** - JavaScript - Python - Go (currently learning)
+**Languages** - Mostly Python and C, i know Javascript well enough and i plan on learning go eventualy
 
-**Areas of Interest** - Cloud computing and infraestructure - System
-security - Linux internals - Networking fundamentals - self-hosting - Old hardware revival projects
+**Areas of Interest** - Operating systems - Infraestructure - System
+security - UNIX internals - Networking - self-hosting - Old hardware 
+revival projects - Compilers and interpreters - Tooling
 
 ------------------------------------------------------------------------
 
@@ -45,7 +41,6 @@ I run a **Proxmox server at home** based on an old Dell Prebuilt (Yeah, it's out
 -   Running local LLMs
 -   Network segmentation
 -   *Dealing with Windows and other proprietary garbage from Microsoft*
--   Breaking my Gentoo VMs on purpose 
 
 ------------------------------------------------------------------------
 
@@ -54,12 +49,12 @@ I run a **Proxmox server at home** based on an old Dell Prebuilt (Yeah, it's out
 I strongly believe in:
 
 -   Open standards
--   Open source software
+-   Free software
 -   Avoiding unnecessary abstraction
 -   Reading documentation
 -   Self teaching
 
-If it runs on Unix, I probably like it.
+If it runs on UNIX, I probably like it.
 
 ------------------------------------------------------------------------
 
@@ -67,18 +62,17 @@ If it runs on Unix, I probably like it.
 
 -   Tinkering with older hardware
 -   Bringing outdated machines back to life (if it wasn't obvious)
--   Learning about the history of computing
+-   Learning and writing about the history of computing
 -   Anything related to Warhammer 40k and the AdMech
 -   Microcontrollers
+-   Ricing
 
 ------------------------------------------------------------------------
 
 ## Current Focus
 
--   Deepening my understanding of security architecture
--   Becoming more comfortable with Go
--   Strengthening backend fundamentals
--   Building more serious infrastructure projects
--   Planning for a master's in either computer science or telecommunications engineering
+-   Learning C well enough to have some interesting systems programming projects under my belt
+-   Maintaining and expanding my Homelab
+-   Planning for a second undergrad in electrical engineering or compsci
 
 ------------------------------------------------------------------------
